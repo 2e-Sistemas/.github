@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Simple Bug report
 about: Create a report to help us improve
 title: "[ORG-BUG]: "
 labels: bug
